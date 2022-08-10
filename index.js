@@ -1,1 +1,3 @@
-// code your solution here
+function superBowlWin(record){
+    return record.find( record => result === "W")
+}
